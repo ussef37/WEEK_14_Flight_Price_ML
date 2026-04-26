@@ -178,8 +178,10 @@ The project includes:
 
 ## 👥 Team
 
+- Nouhaila
 - Youssef
-- Hamza
+- Abdelghani
+- abdelilah
 
 ---
 
