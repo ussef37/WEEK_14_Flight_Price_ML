@@ -145,25 +145,21 @@ Models tested:
 
 ## 📁 Project Structure
 
-
-├── data/
-│ └── Clean_Dataset.csv
-├── notebooks/
-│ └── flight_price_analysis.ipynb
-├── models/
-│ └── final_model.joblib
-├── README.md
-└── requirements.txt
-
+WEEK_14_Flight_Price_ML/
+├── Clean_Dataset.csv
+├── Machine_Learning_Prediction_Prix_billet.ipynb
+├── Preproc_Model_ML_Prediction_Prix_billet.ipynb
+├── Test_Statistique_ML_Prediction_Prix_billet.ipynb
+└── README.md
 
 ---
 
 ## 📈 Results
 
-- ✅ Best Model: *(to be filled)*
-- ✅ MAE: *(to be filled)*
-- ✅ RMSE: *(to be filled)*
-- ✅ R² Score: *(to be filled)*
+- ✅ Best Model: *(Random forest)*
+- ✅ MAE: *(1082) = 11.48$*
+- ✅ RMSE: *(2790)*
+- ✅ R² Score: *(0.98)*
 
 ---
 
