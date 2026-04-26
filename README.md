@@ -189,7 +189,7 @@ The project includes:
 
 ```bash
 # Clone the repository
-git clone <repo-link>
+git clone <https://github.com/ussef37/WEEK_14_Flight_Price_ML.git>
 
 # Navigate to project folder
 cd flight-price-prediction
